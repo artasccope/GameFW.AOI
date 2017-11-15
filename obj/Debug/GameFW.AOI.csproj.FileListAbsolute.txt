@@ -1,0 +1,10 @@
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.AOI\bin\Debug\GameFW.AOI.dll
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.AOI\bin\Debug\GameFW.AOI.pdb
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.AOI\bin\Debug\UnityEngine.dll
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.AOI\bin\Debug\UnityEngine.xml
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.AOI\obj\Debug\GameFW.AOI.dll
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.AOI\obj\Debug\GameFW.AOI.pdb
+C:\UnityProjects\RuleOfGroup\Assets\Plugins\GameFW\GameFW.AOI.dll
+C:\UnityProjects\RuleOfGroup\Assets\Plugins\GameFW\GameFW.AOI.pdb
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.AOI\obj\Debug\GameFW.AOI.csproj.CoreCompileInputs.cache
+C:\Users\mx\Documents\Visual Studio 2017\Projects\MobaServer\GameFW.AOI\obj\Debug\GameFW.AOI.csprojResolveAssemblyReference.cache
